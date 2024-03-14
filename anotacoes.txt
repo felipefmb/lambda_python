@@ -9,3 +9,5 @@ sudo pip install chalice
 
 virtualenv invoke
 chalice new-project
+
+py.test ./invoke/tests/test_app.py  -s
