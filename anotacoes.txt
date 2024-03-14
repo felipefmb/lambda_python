@@ -1,0 +1,11 @@
+Link do curso
+https://www.udemy.com/course/aprenda-aws-lambda-do-zero-com-python-direto-ao-ponto
+
+sudo apt install python3-virtualenv
+virtualenv invoke
+source ./invoke/bin/activate
+
+sudo pip install chalice
+
+virtualenv invoke
+chalice new-project
